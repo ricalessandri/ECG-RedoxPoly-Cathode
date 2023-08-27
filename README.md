@@ -21,9 +21,9 @@ If you use or wish to cite the (electronic) coarse-grained models contained in t
 
 
 ## Abbreviations
-A quick reference to the abbreviations used in this README. Note that they are all explained in the [publication](https://arxiv.org/abs/2209.02072):\ 
-PTMA = poly(TEMPO methyacrylate)\
-CGM3 = coarse-grained Martini 3\
-GBNO2 = graph-based mapping no. 2 with explicit nitroxide degrees of freedom\
-IBI = iterative Boltzmann inversion
+A quick reference to the abbreviations used in this README. Note that they are all explained in the [publication](https://arxiv.org/abs/2209.02072):\
+*PTMA*  = poly(TEMPO methyacrylate)\
+*CGM3*  = coarse-grained Martini 3\
+*GBNO2* = graph-based mapping no. 2 with explicit nitroxide degrees of freedom\
+*IBI*   = iterative Boltzmann inversion
 
