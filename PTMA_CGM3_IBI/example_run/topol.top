@@ -198,124 +198,124 @@ PTMA       2
 180 N4  30 PTMA N4  180 0.0 36.0
 
 [ bonds ]
-  1   2 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-  2   3 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+  1   2 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+  2   3 1 0.253 15000 ; PMMA-TEMPO connection
   3   4 1 0.326 25000 ; cog (TEMPO)
   3   5 1 0.326 25000 ; cog (TEMPO)
-  7   8 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-  8   9 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+  7   8 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+  8   9 1 0.253 15000 ; PMMA-TEMPO connection
   9  10 1 0.326 25000 ; cog (TEMPO)
   9  11 1 0.326 25000 ; cog (TEMPO)
- 13  14 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 14  15 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 13  14 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 14  15 1 0.253 15000 ; PMMA-TEMPO connection
  15  16 1 0.326 25000 ; cog (TEMPO)
  15  17 1 0.326 25000 ; cog (TEMPO)
- 19  20 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 20  21 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 19  20 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 20  21 1 0.253 15000 ; PMMA-TEMPO connection
  21  22 1 0.326 25000 ; cog (TEMPO)
  21  23 1 0.326 25000 ; cog (TEMPO)
- 25  26 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 26  27 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 25  26 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 26  27 1 0.253 15000 ; PMMA-TEMPO connection
  27  28 1 0.326 25000 ; cog (TEMPO)
  27  29 1 0.326 25000 ; cog (TEMPO)
- 31  32 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 32  33 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 31  32 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 32  33 1 0.253 15000 ; PMMA-TEMPO connection
  33  34 1 0.326 25000 ; cog (TEMPO)
  33  35 1 0.326 25000 ; cog (TEMPO)
- 37  38 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 38  39 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 37  38 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 38  39 1 0.253 15000 ; PMMA-TEMPO connection
  39  40 1 0.326 25000 ; cog (TEMPO)
  39  41 1 0.326 25000 ; cog (TEMPO)
- 43  44 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 44  45 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 43  44 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 44  45 1 0.253 15000 ; PMMA-TEMPO connection
  45  46 1 0.326 25000 ; cog (TEMPO)
  45  47 1 0.326 25000 ; cog (TEMPO)
- 49  50 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 50  51 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 49  50 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 50  51 1 0.253 15000 ; PMMA-TEMPO connection
  51  52 1 0.326 25000 ; cog (TEMPO)
  51  53 1 0.326 25000 ; cog (TEMPO)
- 55  56 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 56  57 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 55  56 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 56  57 1 0.253 15000 ; PMMA-TEMPO connection
  57  58 1 0.326 25000 ; cog (TEMPO)
  57  59 1 0.326 25000 ; cog (TEMPO)
- 61  62 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 62  63 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 61  62 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 62  63 1 0.253 15000 ; PMMA-TEMPO connection
  63  64 1 0.326 25000 ; cog (TEMPO)
  63  65 1 0.326 25000 ; cog (TEMPO)
- 67  68 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 68  69 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 67  68 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 68  69 1 0.253 15000 ; PMMA-TEMPO connection
  69  70 1 0.326 25000 ; cog (TEMPO)
  69  71 1 0.326 25000 ; cog (TEMPO)
- 73  74 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 74  75 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 73  74 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 74  75 1 0.253 15000 ; PMMA-TEMPO connection
  75  76 1 0.326 25000 ; cog (TEMPO)
  75  77 1 0.326 25000 ; cog (TEMPO)
- 79  80 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 80  81 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 79  80 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 80  81 1 0.253 15000 ; PMMA-TEMPO connection
  81  82 1 0.326 25000 ; cog (TEMPO)
  81  83 1 0.326 25000 ; cog (TEMPO)
- 85  86 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 86  87 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 85  86 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 86  87 1 0.253 15000 ; PMMA-TEMPO connection
  87  88 1 0.326 25000 ; cog (TEMPO)
  87  89 1 0.326 25000 ; cog (TEMPO)
- 91  92 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 92  93 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 91  92 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 92  93 1 0.253 15000 ; PMMA-TEMPO connection
  93  94 1 0.326 25000 ; cog (TEMPO)
  93  95 1 0.326 25000 ; cog (TEMPO)
- 97  98 1 0.262 15000 ; M3 PMMA model (SHORTENED)
- 98  99 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+ 97  98 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+ 98  99 1 0.253 15000 ; PMMA-TEMPO connection
  99 100 1 0.326 25000 ; cog (TEMPO)
  99 101 1 0.326 25000 ; cog (TEMPO)
-103 104 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-104 105 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+103 104 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+104 105 1 0.253 15000 ; PMMA-TEMPO connection
 105 106 1 0.326 25000 ; cog (TEMPO)
 105 107 1 0.326 25000 ; cog (TEMPO)
-109 110 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-110 111 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+109 110 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+110 111 1 0.253 15000 ; PMMA-TEMPO connection
 111 112 1 0.326 25000 ; cog (TEMPO)
 111 113 1 0.326 25000 ; cog (TEMPO)
-115 116 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-116 117 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+115 116 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+116 117 1 0.253 15000 ; PMMA-TEMPO connection
 117 118 1 0.326 25000 ; cog (TEMPO)
 117 119 1 0.326 25000 ; cog (TEMPO)
-121 122 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-122 123 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+121 122 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+122 123 1 0.253 15000 ; PMMA-TEMPO connection
 123 124 1 0.326 25000 ; cog (TEMPO)
 123 125 1 0.326 25000 ; cog (TEMPO)
-127 128 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-128 129 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+127 128 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+128 129 1 0.253 15000 ; PMMA-TEMPO connection
 129 130 1 0.326 25000 ; cog (TEMPO)
 129 131 1 0.326 25000 ; cog (TEMPO)
-133 134 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-134 135 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+133 134 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+134 135 1 0.253 15000 ; PMMA-TEMPO connection
 135 136 1 0.326 25000 ; cog (TEMPO)
 135 137 1 0.326 25000 ; cog (TEMPO)
-139 140 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-140 141 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+139 140 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+140 141 1 0.253 15000 ; PMMA-TEMPO connection
 141 142 1 0.326 25000 ; cog (TEMPO)
 141 143 1 0.326 25000 ; cog (TEMPO)
-145 146 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-146 147 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+145 146 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+146 147 1 0.253 15000 ; PMMA-TEMPO connection
 147 148 1 0.326 25000 ; cog (TEMPO)
 147 149 1 0.326 25000 ; cog (TEMPO)
-151 152 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-152 153 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+151 152 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+152 153 1 0.253 15000 ; PMMA-TEMPO connection
 153 154 1 0.326 25000 ; cog (TEMPO)
 153 155 1 0.326 25000 ; cog (TEMPO)
-157 158 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-158 159 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+157 158 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+158 159 1 0.253 15000 ; PMMA-TEMPO connection
 159 160 1 0.326 25000 ; cog (TEMPO)
 159 161 1 0.326 25000 ; cog (TEMPO)
-163 164 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-164 165 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+163 164 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+164 165 1 0.253 15000 ; PMMA-TEMPO connection
 165 166 1 0.326 25000 ; cog (TEMPO)
 165 167 1 0.326 25000 ; cog (TEMPO)
-169 170 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-170 171 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+169 170 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+170 171 1 0.253 15000 ; PMMA-TEMPO connection
 171 172 1 0.326 25000 ; cog (TEMPO)
 171 173 1 0.326 25000 ; cog (TEMPO)
-175 176 1 0.262 15000 ; M3 PMMA model (SHORTENED)
-176 177 1 0.253 15000 ; NEW! PMMA-TEMPO connection
+175 176 1 0.262 15000 ; M3 PMMA model [10.1038/s41467-021-27627-4] shortened
+176 177 1 0.253 15000 ; PMMA-TEMPO connection
 177 178 1 0.326 25000 ; cog (TEMPO)
 177 179 1 0.326 25000 ; cog (TEMPO)
 
@@ -538,96 +538,96 @@ PTMA       2
 #endif
 
 [ angles ]
-  1   2   3 2 132.9 70 ; NEW! PMMA-TEMPO connection
-  2   3   4 2 129.0 60 ; NEW! PMMA-TEMPO connection
-  2   3   5 2 121.9 95 ; NEW! PMMA-TEMPO connection
-  7   8   9 2 132.9 70 ; NEW! PMMA-TEMPO connection
-  8   9  10 2 129.0 60 ; NEW! PMMA-TEMPO connection
-  8   9  11 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 13  14  15 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 14  15  16 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 14  15  17 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 19  20  21 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 20  21  22 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 20  21  23 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 25  26  27 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 26  27  28 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 26  27  29 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 31  32  33 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 32  33  34 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 32  33  35 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 37  38  39 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 38  39  40 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 38  39  41 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 43  44  45 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 44  45  46 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 44  45  47 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 49  50  51 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 50  51  52 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 50  51  53 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 55  56  57 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 56  57  58 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 56  57  59 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 61  62  63 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 62  63  64 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 62  63  65 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 67  68  69 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 68  69  70 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 68  69  71 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 73  74  75 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 74  75  76 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 74  75  77 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 79  80  81 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 80  81  82 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 80  81  83 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 85  86  87 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 86  87  88 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 86  87  89 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 91  92  93 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 92  93  94 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 92  93  95 2 121.9 95 ; NEW! PMMA-TEMPO connection
- 97  98  99 2 132.9 70 ; NEW! PMMA-TEMPO connection
- 98  99 100 2 129.0 60 ; NEW! PMMA-TEMPO connection
- 98  99 101 2 121.9 95 ; NEW! PMMA-TEMPO connection
-103 104 105 2 132.9 70 ; NEW! PMMA-TEMPO connection
-104 105 106 2 129.0 60 ; NEW! PMMA-TEMPO connection
-104 105 107 2 121.9 95 ; NEW! PMMA-TEMPO connection
-109 110 111 2 132.9 70 ; NEW! PMMA-TEMPO connection
-110 111 112 2 129.0 60 ; NEW! PMMA-TEMPO connection
-110 111 113 2 121.9 95 ; NEW! PMMA-TEMPO connection
-115 116 117 2 132.9 70 ; NEW! PMMA-TEMPO connection
-116 117 118 2 129.0 60 ; NEW! PMMA-TEMPO connection
-116 117 119 2 121.9 95 ; NEW! PMMA-TEMPO connection
-121 122 123 2 132.9 70 ; NEW! PMMA-TEMPO connection
-122 123 124 2 129.0 60 ; NEW! PMMA-TEMPO connection
-122 123 125 2 121.9 95 ; NEW! PMMA-TEMPO connection
-127 128 129 2 132.9 70 ; NEW! PMMA-TEMPO connection
-128 129 130 2 129.0 60 ; NEW! PMMA-TEMPO connection
-128 129 131 2 121.9 95 ; NEW! PMMA-TEMPO connection
-133 134 135 2 132.9 70 ; NEW! PMMA-TEMPO connection
-134 135 136 2 129.0 60 ; NEW! PMMA-TEMPO connection
-134 135 137 2 121.9 95 ; NEW! PMMA-TEMPO connection
-139 140 141 2 132.9 70 ; NEW! PMMA-TEMPO connection
-140 141 142 2 129.0 60 ; NEW! PMMA-TEMPO connection
-140 141 143 2 121.9 95 ; NEW! PMMA-TEMPO connection
-145 146 147 2 132.9 70 ; NEW! PMMA-TEMPO connection
-146 147 148 2 129.0 60 ; NEW! PMMA-TEMPO connection
-146 147 149 2 121.9 95 ; NEW! PMMA-TEMPO connection
-151 152 153 2 132.9 70 ; NEW! PMMA-TEMPO connection
-152 153 154 2 129.0 60 ; NEW! PMMA-TEMPO connection
-152 153 155 2 121.9 95 ; NEW! PMMA-TEMPO connection
-157 158 159 2 132.9 70 ; NEW! PMMA-TEMPO connection
-158 159 160 2 129.0 60 ; NEW! PMMA-TEMPO connection
-158 159 161 2 121.9 95 ; NEW! PMMA-TEMPO connection
-163 164 165 2 132.9 70 ; NEW! PMMA-TEMPO connection
-164 165 166 2 129.0 60 ; NEW! PMMA-TEMPO connection
-164 165 167 2 121.9 95 ; NEW! PMMA-TEMPO connection
-169 170 171 2 132.9 70 ; NEW! PMMA-TEMPO connection
-170 171 172 2 129.0 60 ; NEW! PMMA-TEMPO connection
-170 171 173 2 121.9 95 ; NEW! PMMA-TEMPO connection
-175 176 177 2 132.9 70 ; NEW! PMMA-TEMPO connection
-176 177 178 2 129.0 60 ; NEW! PMMA-TEMPO connection
-176 177 179 2 121.9 95 ; NEW! PMMA-TEMPO connection
+  1   2   3 2 132.9 70 ; PMMA-TEMPO connection
+  2   3   4 2 129.0 60 ; PMMA-TEMPO connection
+  2   3   5 2 121.9 95 ; PMMA-TEMPO connection
+  7   8   9 2 132.9 70 ; PMMA-TEMPO connection
+  8   9  10 2 129.0 60 ; PMMA-TEMPO connection
+  8   9  11 2 121.9 95 ; PMMA-TEMPO connection
+ 13  14  15 2 132.9 70 ; PMMA-TEMPO connection
+ 14  15  16 2 129.0 60 ; PMMA-TEMPO connection
+ 14  15  17 2 121.9 95 ; PMMA-TEMPO connection
+ 19  20  21 2 132.9 70 ; PMMA-TEMPO connection
+ 20  21  22 2 129.0 60 ; PMMA-TEMPO connection
+ 20  21  23 2 121.9 95 ; PMMA-TEMPO connection
+ 25  26  27 2 132.9 70 ; PMMA-TEMPO connection
+ 26  27  28 2 129.0 60 ; PMMA-TEMPO connection
+ 26  27  29 2 121.9 95 ; PMMA-TEMPO connection
+ 31  32  33 2 132.9 70 ; PMMA-TEMPO connection
+ 32  33  34 2 129.0 60 ; PMMA-TEMPO connection
+ 32  33  35 2 121.9 95 ; PMMA-TEMPO connection
+ 37  38  39 2 132.9 70 ; PMMA-TEMPO connection
+ 38  39  40 2 129.0 60 ; PMMA-TEMPO connection
+ 38  39  41 2 121.9 95 ; PMMA-TEMPO connection
+ 43  44  45 2 132.9 70 ; PMMA-TEMPO connection
+ 44  45  46 2 129.0 60 ; PMMA-TEMPO connection
+ 44  45  47 2 121.9 95 ; PMMA-TEMPO connection
+ 49  50  51 2 132.9 70 ; PMMA-TEMPO connection
+ 50  51  52 2 129.0 60 ; PMMA-TEMPO connection
+ 50  51  53 2 121.9 95 ; PMMA-TEMPO connection
+ 55  56  57 2 132.9 70 ; PMMA-TEMPO connection
+ 56  57  58 2 129.0 60 ; PMMA-TEMPO connection
+ 56  57  59 2 121.9 95 ; PMMA-TEMPO connection
+ 61  62  63 2 132.9 70 ; PMMA-TEMPO connection
+ 62  63  64 2 129.0 60 ; PMMA-TEMPO connection
+ 62  63  65 2 121.9 95 ; PMMA-TEMPO connection
+ 67  68  69 2 132.9 70 ; PMMA-TEMPO connection
+ 68  69  70 2 129.0 60 ; PMMA-TEMPO connection
+ 68  69  71 2 121.9 95 ; PMMA-TEMPO connection
+ 73  74  75 2 132.9 70 ; PMMA-TEMPO connection
+ 74  75  76 2 129.0 60 ; PMMA-TEMPO connection
+ 74  75  77 2 121.9 95 ; PMMA-TEMPO connection
+ 79  80  81 2 132.9 70 ; PMMA-TEMPO connection
+ 80  81  82 2 129.0 60 ; PMMA-TEMPO connection
+ 80  81  83 2 121.9 95 ; PMMA-TEMPO connection
+ 85  86  87 2 132.9 70 ; PMMA-TEMPO connection
+ 86  87  88 2 129.0 60 ; PMMA-TEMPO connection
+ 86  87  89 2 121.9 95 ; PMMA-TEMPO connection
+ 91  92  93 2 132.9 70 ; PMMA-TEMPO connection
+ 92  93  94 2 129.0 60 ; PMMA-TEMPO connection
+ 92  93  95 2 121.9 95 ; PMMA-TEMPO connection
+ 97  98  99 2 132.9 70 ; PMMA-TEMPO connection
+ 98  99 100 2 129.0 60 ; PMMA-TEMPO connection
+ 98  99 101 2 121.9 95 ; PMMA-TEMPO connection
+103 104 105 2 132.9 70 ; PMMA-TEMPO connection
+104 105 106 2 129.0 60 ; PMMA-TEMPO connection
+104 105 107 2 121.9 95 ; PMMA-TEMPO connection
+109 110 111 2 132.9 70 ; PMMA-TEMPO connection
+110 111 112 2 129.0 60 ; PMMA-TEMPO connection
+110 111 113 2 121.9 95 ; PMMA-TEMPO connection
+115 116 117 2 132.9 70 ; PMMA-TEMPO connection
+116 117 118 2 129.0 60 ; PMMA-TEMPO connection
+116 117 119 2 121.9 95 ; PMMA-TEMPO connection
+121 122 123 2 132.9 70 ; PMMA-TEMPO connection
+122 123 124 2 129.0 60 ; PMMA-TEMPO connection
+122 123 125 2 121.9 95 ; PMMA-TEMPO connection
+127 128 129 2 132.9 70 ; PMMA-TEMPO connection
+128 129 130 2 129.0 60 ; PMMA-TEMPO connection
+128 129 131 2 121.9 95 ; PMMA-TEMPO connection
+133 134 135 2 132.9 70 ; PMMA-TEMPO connection
+134 135 136 2 129.0 60 ; PMMA-TEMPO connection
+134 135 137 2 121.9 95 ; PMMA-TEMPO connection
+139 140 141 2 132.9 70 ; PMMA-TEMPO connection
+140 141 142 2 129.0 60 ; PMMA-TEMPO connection
+140 141 143 2 121.9 95 ; PMMA-TEMPO connection
+145 146 147 2 132.9 70 ; PMMA-TEMPO connection
+146 147 148 2 129.0 60 ; PMMA-TEMPO connection
+146 147 149 2 121.9 95 ; PMMA-TEMPO connection
+151 152 153 2 132.9 70 ; PMMA-TEMPO connection
+152 153 154 2 129.0 60 ; PMMA-TEMPO connection
+152 153 155 2 121.9 95 ; PMMA-TEMPO connection
+157 158 159 2 132.9 70 ; PMMA-TEMPO connection
+158 159 160 2 129.0 60 ; PMMA-TEMPO connection
+158 159 161 2 121.9 95 ; PMMA-TEMPO connection
+163 164 165 2 132.9 70 ; PMMA-TEMPO connection
+164 165 166 2 129.0 60 ; PMMA-TEMPO connection
+164 165 167 2 121.9 95 ; PMMA-TEMPO connection
+169 170 171 2 132.9 70 ; PMMA-TEMPO connection
+170 171 172 2 129.0 60 ; PMMA-TEMPO connection
+170 171 173 2 121.9 95 ; PMMA-TEMPO connection
+175 176 177 2 132.9 70 ; PMMA-TEMPO connection
+176 177 178 2 129.0 60 ; PMMA-TEMPO connection
+176 177 179 2 121.9 95 ; PMMA-TEMPO connection
   2   1   7 2 70 20
   8   7  13 2 70 20
  14  13  19 2 70 20
@@ -690,65 +690,65 @@ PTMA       2
 
 [ dihedrals ]
   3   4   5   6 2 140.00 20 ; cog (TEMPO)
-  2   4   5   6 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+  2   4   5   6 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
   9  10  11  12 2 140.00 20 ; cog (TEMPO)
-  8  10  11  12 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+  8  10  11  12 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  15  16  17  18 2 140.00 20 ; cog (TEMPO)
- 14  16  17  18 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 14  16  17  18 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  21  22  23  24 2 140.00 20 ; cog (TEMPO)
- 20  22  23  24 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 20  22  23  24 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  27  28  29  30 2 140.00 20 ; cog (TEMPO)
- 26  28  29  30 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 26  28  29  30 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  33  34  35  36 2 140.00 20 ; cog (TEMPO)
- 32  34  35  36 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 32  34  35  36 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  39  40  41  42 2 140.00 20 ; cog (TEMPO)
- 38  40  41  42 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 38  40  41  42 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  45  46  47  48 2 140.00 20 ; cog (TEMPO)
- 44  46  47  48 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 44  46  47  48 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  51  52  53  54 2 140.00 20 ; cog (TEMPO)
- 50  52  53  54 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 50  52  53  54 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  57  58  59  60 2 140.00 20 ; cog (TEMPO)
- 56  58  59  60 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 56  58  59  60 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  63  64  65  66 2 140.00 20 ; cog (TEMPO)
- 62  64  65  66 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 62  64  65  66 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  69  70  71  72 2 140.00 20 ; cog (TEMPO)
- 68  70  71  72 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 68  70  71  72 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  75  76  77  78 2 140.00 20 ; cog (TEMPO)
- 74  76  77  78 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 74  76  77  78 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  81  82  83  84 2 140.00 20 ; cog (TEMPO)
- 80  82  83  84 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 80  82  83  84 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  87  88  89  90 2 140.00 20 ; cog (TEMPO)
- 86  88  89  90 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 86  88  89  90 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  93  94  95  96 2 140.00 20 ; cog (TEMPO)
- 92  94  95  96 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 92  94  95  96 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
  99 100 101 102 2 140.00 20 ; cog (TEMPO)
- 98 100 101 102 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+ 98 100 101 102 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 105 106 107 108 2 140.00 20 ; cog (TEMPO)
-104 106 107 108 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+104 106 107 108 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 111 112 113 114 2 140.00 20 ; cog (TEMPO)
-110 112 113 114 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+110 112 113 114 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 117 118 119 120 2 140.00 20 ; cog (TEMPO)
-116 118 119 120 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+116 118 119 120 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 123 124 125 126 2 140.00 20 ; cog (TEMPO)
-122 124 125 126 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+122 124 125 126 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 129 130 131 132 2 140.00 20 ; cog (TEMPO)
-128 130 131 132 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+128 130 131 132 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 135 136 137 138 2 140.00 20 ; cog (TEMPO)
-134 136 137 138 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+134 136 137 138 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 141 142 143 144 2 140.00 20 ; cog (TEMPO)
-140 142 143 144 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+140 142 143 144 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 147 148 149 150 2 140.00 20 ; cog (TEMPO)
-146 148 149 150 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+146 148 149 150 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 153 154 155 156 2 140.00 20 ; cog (TEMPO)
-152 154 155 156 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+152 154 155 156 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 159 160 161 162 2 140.00 20 ; cog (TEMPO)
-158 160 161 162 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+158 160 161 162 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 165 166 167 168 2 140.00 20 ; cog (TEMPO)
-164 166 167 168 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+164 166 167 168 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 171 172 173 174 2 140.00 20 ; cog (TEMPO)
-170 172 173 174 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+170 172 173 174 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 177 178 179 180 2 140.00 20 ; cog (TEMPO)
-176 178 179 180 2 150.00 80 ; NEW! PMMA-TEMPO connection (removing this decreases the numberical stability!)
+176 178 179 180 2 150.00 80 ; PMMA-TEMPO connection (removing this decreases the numberical stability!)
 
 [ exclusions ]
   1   2   3   4   5   6 
