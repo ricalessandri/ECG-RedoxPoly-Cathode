@@ -4,7 +4,7 @@
 If you use or wish to cite the (electronic) coarse-grained models contained in this repo, please refer to the following publication:
 
 - R. Alessandri, J. J. de Pablo, "Prediction of Electronic Properties of Radical-Containing Polymers at Coarse-Grained Resolutions", 
-  *Macromolecules*, **2023**, *6*, 3574−3584 ([ACS websire](https://doi.org/10.1021/acs.macromol.3c00141); [open-access from the arXiv](https://arxiv.org/abs/2209.02072)).
+  *Macromolecules*, **2023**, *6*, 3574−3584 ([ACS website](https://doi.org/10.1021/acs.macromol.3c00141); [open-access from the arXiv](https://arxiv.org/abs/2209.02072)).
 
 
 ## Atomistic model
